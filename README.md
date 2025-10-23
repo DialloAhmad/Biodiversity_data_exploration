@@ -33,7 +33,7 @@ Statut de conservation des espèces
 
 Species
 
-![Species](/img/spacies)
+![Species](/img/spacies.png)
 
 Abundance in parks
 
