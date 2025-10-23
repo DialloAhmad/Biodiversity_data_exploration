@@ -26,3 +26,30 @@ NOTE : La classification de félins ne se trouve pas dans ce repository.
 Différents modèles ont été implémentés pour faire cette classification comme : MobileNetV2, Xception, ResNet50V2, ResNet152V2 et InceptionV3
 
 ## Quelques Visualisations 
+
+Statut de conservation des espèces
+
+![species_conservation](/img/species_conservation_status.png)
+
+Species
+
+![Species](/img/species)
+
+Abundance in parks
+
+![Abundance in parks](/img/Abundance_in_parks.png)
+
+Parks size
+
+![Parks size](/img/maps_park_size.png)
+
+Parks density
+
+![Parks density](/img/parks_density.png)
+
+Big cats classification
+
+![Big cats classification](/img/big_cats_classif.png)
+
+
+
